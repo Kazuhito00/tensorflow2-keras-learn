@@ -1,5 +1,6 @@
 # tensorflow2_keras_learn
  Tensorflow2のkerasの勉強の記録です。
+ 
  社内向けのハンズオン、モブプログラミングの資料が多いです。
 
 # Requirement
