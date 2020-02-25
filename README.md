@@ -29,4 +29,4 @@ Jupyter Notebookでipynbファイルを開いてください。
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-cvfpscalc is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+tensorflow2_keras_learn is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
