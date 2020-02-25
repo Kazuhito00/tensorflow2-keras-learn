@@ -11,6 +11,19 @@
 # Installation
  
 Jupyter Notebookでipynbファイルを開いてください。
+
+# Note
+
+コメントは処理ブロックにしか記載していません（一部例外はあります
+
+参加者同士で1行1行の処理の理由を説明しあってください。
+
+また、やる気のある方は以下のリポジトリをチャレンジすることを推奨します。
+
+個人的に実施してみましたが、画像処理を考える上で必要な知識が網羅されています。
+
+* [画像処理100本ノック](https://github.com/yoyoyo-yo/Gasyori100knock)
+* [ディープラーニング∞本ノック](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
  
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
