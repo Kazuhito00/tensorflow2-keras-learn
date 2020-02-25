@@ -20,7 +20,7 @@ Jupyter Notebookでipynbファイルを開いてください。
 
 また、やる気のある方は、以下のリポジトリをチャレンジすることを推奨します。
 
-個人的に実施してみましたが、画像処理を考える上で必要な知識が網羅されています。
+個人的に実施してみましたが、画像処理に必要な知識が、かなり網羅されていると思います。
 
 * [画像処理100本ノック](https://github.com/yoyoyo-yo/Gasyori100knock)
 * [ディープラーニング∞本ノック](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
