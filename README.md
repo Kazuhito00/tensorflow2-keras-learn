@@ -14,9 +14,9 @@ Jupyter Notebookでipynbファイルを開いてください。
 
 # Contents
 
-* 01.多層パーセプトロン(Multilayer perceptron:MLP)によるMNIST(手書き数字認識用データセット)の認識
-* 02.畳み込みニューラルネットワーク(Convolutional Neural Network:CNN)によるCifar10(10クラス一般物体認識用データセット)の認識
-* 03.ファインチューニングによる17flowers(17クラスの花認識用データセット)の認識
+* 01.多層パーセプトロン(Multilayer perceptron:MLP)による、MNIST(手書き数字認識用データセット)の認識
+* 02.畳み込みニューラルネットワーク(Convolutional Neural Network:CNN)による、Cifar10(10クラス一般物体認識用データセット)の認識
+* 03.ファインチューニングによる、17flowers(17クラスの花認識用データセット)の認識
 
 # Note
 
