@@ -1,4 +1,4 @@
-# tensorflow2_keras_learn
+# tensorflow2-keras-learn
  Tensorflow2のkerasの勉強の記録です。
  
  社内向けのハンズオン、モブプログラミングの資料が多いです。
@@ -35,4 +35,4 @@ Jupyter Notebookでipynbファイルを開いてください。
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-tensorflow2_keras_learn is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+tensorflow2-keras-learn is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
