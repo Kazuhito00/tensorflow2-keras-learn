@@ -14,8 +14,8 @@ Jupyter Notebookでipynbファイルを開いてください。
 
 # Contents
 
-1. 多層パーセプトロン(Multilayer perceptron:MLP)による、MNIST(手書き数字認識用データセット)の認識
-1. 畳み込みニューラルネットワーク(Convolutional Neural Network:CNN)による、Cifar10(10クラス一般物体認識用データセット)の認識
+1. 多層パーセプトロン(Multilayer perceptron:MLP)による、<br>MNIST(手書き数字認識用データセット)の認識
+1. 畳み込みニューラルネットワーク(Convolutional Neural Network:CNN)による、<br>Cifar10(10クラス一般物体認識用データセット)の認識
 1. ファインチューニングによる、17flowers(17クラスの花認識用データセット)の認識
 1. 検討中
     1. 画像クラス分類モデルを改造し年齢推定モデルを作成
