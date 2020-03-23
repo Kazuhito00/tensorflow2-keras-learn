@@ -20,9 +20,9 @@ Jupyter Notebookでipynbファイルを開いてください。
 1. 検討中
     1. データ拡張を用いて精度向上にトライ<br>参考：[データのお気持ちを考えながらData Augmentationする](https://blog.shikoan.com/manual-augmentation/)
     1. 画像クラス分類モデルを改造し年齢推定モデルを作成
-    1. LSTMによる時系列データの分類
     1. 画像クラス分類モデルの入力を複数入力に改造<br>参考：[超簡単 Kerasで複数Input統合モデル](https://qiita.com/FukuharaYohei/items/58cfbce0ed81833a2da1)
     1. 画像クラス分類モデルの出力を複数出力に改造<br>参考：[複数の分類を出力するディープラーニング](https://qiita.com/cvusk/items/1439c1c6dde160c48d13)
+    1. LSTMによる時系列データの分類
     1. SSDやpix2pixをクローンして推論を実行
 
 # Note
