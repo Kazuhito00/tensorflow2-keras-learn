@@ -39,6 +39,13 @@ Jupyter Notebookでipynbファイルを開いてください。
 
 * [画像処理100本ノック](https://github.com/yoyoyo-yo/Gasyori100knock)
 * [ディープラーニング∞本ノック](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
+
+# Note2
+より発展的な内容のためのリンク集です。
+
+* [機械学習関係の論文の調査共有リポジトリ](https://github.com/arXivTimes/arXivTimes)
+* [機械学習に利用可能なデータセット集](https://github.com/arXivTimes/arXivTimes/tree/master/datasets)
+* [機械学習に有用なツール集](https://github.com/arXivTimes/arXivTimes/tree/master/tools)
  
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
