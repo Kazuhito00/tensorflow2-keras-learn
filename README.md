@@ -23,7 +23,7 @@ Jupyter Notebookでipynbファイルを開いてください。
     1. 画像クラス分類モデルの入力を複数入力に改造<br>参考：[超簡単 Kerasで複数Input統合モデル](https://qiita.com/FukuharaYohei/items/58cfbce0ed81833a2da1)
     1. 画像クラス分類モデルの出力を複数出力に改造<br>参考：[複数の分類を出力するディープラーニング](https://qiita.com/cvusk/items/1439c1c6dde160c48d13)
     1. LSTMによる時系列データ or 音の分類<br>音声データ取り扱いの参考：[TensorFlowメモ（Simple Audio Recognition）](https://work-in-progress.hatenablog.com/entry/2020/02/08/111004)
-    1. SSDやpix2pixをクローンして推論を実行
+    1. [SSD](https://github.com/calmisential/TensorFlow2.0_SSD)や[pix2pix](https://www.tensorflow.org/tutorials/generative/pix2pix)、[EfficentDet](https://github.com/Guillem96/efficientdet-tf)をクローンして推論を実行
     1. Kaggleの過去コンペ<br>参考：[Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～](https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0)
     
 
