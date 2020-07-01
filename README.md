@@ -49,6 +49,9 @@ Jupyter Notebookでipynbファイルを開いてください。
 * [LIONBRIDGE.AI：機械学習向けデータセットライブラリ](https://lionbridge.ai/ja/datasets/library/)
 * [LIONBRIDGE.AI：【50個掲載】機械学習に使えるデータセットまとめ](https://lionbridge.ai/ja/datasets/the-50-best-free-datasets-for-machine-learning/)
 * [機械学習品質マネジメントガイドライン](https://www.cpsec.aist.go.jp/achievements/aiqm/)
+
+# Other memo
+* [ML Visuals by dair.ai](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit#slide=id.p)
  
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
