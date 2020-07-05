@@ -50,8 +50,17 @@ Jupyter Notebookでipynbファイルを開いてください。
 * [LIONBRIDGE.AI：【50個掲載】機械学習に使えるデータセットまとめ](https://lionbridge.ai/ja/datasets/the-50-best-free-datasets-for-machine-learning/)
 * [機械学習品質マネジメントガイドライン](https://www.cpsec.aist.go.jp/achievements/aiqm/)
 
+# Note3
+将来的に機械学習プロジェクトへ携わる方への参考情報です。
+
+* [失敗から学ぶ機械学習応用](https://www.slideshare.net/HiroyukiMasuda1/ss-181844477)
+* [機械学習の未解決課題](https://www.slideshare.net/HiroyukiMasuda1/unsolved-machine-learning-problems-196997933)
+* [機械学習モデルの判断根拠の説明](https://www.slideshare.net/SatoshiHara3/ver2-225753735)
+* [コンピュータビジョンの観点から見たAIの公平性](https://www.slideshare.net/cvpaperchallenge/ai-229094219)
+
+
 # Other memo
-* [ML Visuals by dair.ai](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit#slide=id.p)
+* [ML Visuals by dair.ai(スライド用素材)](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit#slide=id.p)
  
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
