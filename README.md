@@ -57,6 +57,7 @@ Jupyter Notebookでipynbファイルを開いてください。
 * [機械学習の未解決課題](https://www.slideshare.net/HiroyukiMasuda1/unsolved-machine-learning-problems-196997933)
 * [機械学習モデルの判断根拠の説明](https://www.slideshare.net/SatoshiHara3/ver2-225753735)
 * [コンピュータビジョンの観点から見たAIの公平性](https://www.slideshare.net/cvpaperchallenge/ai-229094219)
+* [公平な機械学習へ向けての技術と課題](https://qiita.com/ly9988/items/6017404d23cfd38500c1)
 
 
 # Other memo
