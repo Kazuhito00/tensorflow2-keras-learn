@@ -38,6 +38,7 @@ Jupyter Notebookでipynbファイルを開いてください。
 個人的に実施してみましたが、画像処理に必要な知識が、かなり網羅されていると思います。
 
 * [画像処理100本ノック](https://github.com/yoyoyo-yo/Gasyori100knock)
+* [音声情報処理n本ノック](https://github.com/tam17aki/speech_process_exercise)
 * [ディープラーニング∞本ノック](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
 
 # Note2
