@@ -18,7 +18,7 @@ Jupyter Notebookでipynbファイルを開いてください。
 1. 畳み込みニューラルネットワーク(Convolutional Neural Network:CNN)による、<br>Cifar10(10クラス一般物体認識用データセット)の認識
 1. ファインチューニングによる、17flowers(17クラスの花認識用データセット)の認識<br>参考：[TensorFlow2で機械学習をはじめたいと思ってる方へ](https://qiita.com/tatsuya11bbs/items/7d7a2c920730ae0c592a)
 1. Object Detection APIを使用した物体検出ハンズオン<br>
-[Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On)
+[Tensorflow2-ObjectDetectionAPI-Colab-Hands-On](https://github.com/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On) ※別リポジトリ
 1. 検討中
     1. データ拡張を用いて精度向上にトライ、Grad-CAM可視化<br>参考：[データのお気持ちを考えながらData Augmentationする](https://blog.shikoan.com/manual-augmentation/)
     1. 画像クラス分類モデルを改造し年齢推定モデルを作成
