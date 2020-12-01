@@ -66,6 +66,7 @@ Jupyter Notebookでipynbファイルを開いてください。
 
 # Other memo
 * [ML Visuals by dair.ai(スライド用素材)](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit#slide=id.p)
+* [NN SVG(SVGでのネットワーク作図)](https://alexlenail.me/NN-SVG/)
  
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
